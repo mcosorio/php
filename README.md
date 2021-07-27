@@ -8,3 +8,6 @@ Entrar na pasta `php` e digitar:
 
     docker-compose up
 
+## Acesso
+
+O apache está subindo na porta 8080

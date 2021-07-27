@@ -1,6 +1,6 @@
 ## Clonar o repositório
 
-    git clone ...
+    git clone https://github.com/mcosorio/php.git
 
 ## Para subir
 

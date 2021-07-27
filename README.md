@@ -7,3 +7,4 @@
 Entrar na pasta `php` e digitar:
 
     docker-compose up
+
